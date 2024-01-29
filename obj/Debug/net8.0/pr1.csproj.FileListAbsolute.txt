@@ -1,0 +1,14 @@
+/home/beardrubyblue/Документы/pr1/bin/Debug/net8.0/pr1
+/home/beardrubyblue/Документы/pr1/bin/Debug/net8.0/pr1.deps.json
+/home/beardrubyblue/Документы/pr1/bin/Debug/net8.0/pr1.runtimeconfig.json
+/home/beardrubyblue/Документы/pr1/bin/Debug/net8.0/pr1.dll
+/home/beardrubyblue/Документы/pr1/bin/Debug/net8.0/pr1.pdb
+/home/beardrubyblue/Документы/pr1/obj/Debug/net8.0/pr1.GeneratedMSBuildEditorConfig.editorconfig
+/home/beardrubyblue/Документы/pr1/obj/Debug/net8.0/pr1.AssemblyInfoInputs.cache
+/home/beardrubyblue/Документы/pr1/obj/Debug/net8.0/pr1.AssemblyInfo.cs
+/home/beardrubyblue/Документы/pr1/obj/Debug/net8.0/pr1.csproj.CoreCompileInputs.cache
+/home/beardrubyblue/Документы/pr1/obj/Debug/net8.0/pr1.dll
+/home/beardrubyblue/Документы/pr1/obj/Debug/net8.0/refint/pr1.dll
+/home/beardrubyblue/Документы/pr1/obj/Debug/net8.0/pr1.pdb
+/home/beardrubyblue/Документы/pr1/obj/Debug/net8.0/pr1.genruntimeconfig.cache
+/home/beardrubyblue/Документы/pr1/obj/Debug/net8.0/ref/pr1.dll
